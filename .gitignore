@@ -5,6 +5,8 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+package-lock.json
+package.json
 .apt_generated
 .classpath
 .factorypath
